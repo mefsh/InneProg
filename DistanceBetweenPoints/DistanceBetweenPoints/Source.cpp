@@ -1,6 +1,6 @@
 /******************************************/
 /*
- * Check distance between each point in tab
+ * Check distance between each point in array
  * and find the lowest one. Added conflict
  * exception. if there is the same distance 
  * between more than two points, then show
